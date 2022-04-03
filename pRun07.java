@@ -1,3 +1,4 @@
+package MVC.run;
 import MVC.view.pView07;
 
 public class pRun07 {
@@ -6,7 +7,7 @@ public class pRun07 {
 		pView07 pv = new pView07();
 		pv.mainMenu();
 		
-		
+		// package mvc.run
 		
 	}
 	

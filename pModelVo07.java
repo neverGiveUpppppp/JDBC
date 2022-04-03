@@ -1,3 +1,4 @@
+package MVC.model.vo;
 import java.sql.Date;
 
 public class pModelVo07 {
